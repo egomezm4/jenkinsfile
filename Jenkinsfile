@@ -6,7 +6,7 @@ pipeline {
             steps {
                 // Aquí van los comandos para compilar tu proyecto
                 echo 'Compilando el proyecto...'
-                echo ' este es un nuevo mensaje ######################################################################### pull'
+                echo ' este es un nuevo mensaje2 ######################################################################### pull'
             }
         }
         stage('Test') {
